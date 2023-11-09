@@ -1,0 +1,13 @@
+.board {
+  width: 600px;
+  height: 600px;
+  background-color: rgb(195, 195, 195);
+  border-radius: 10px;
+}
+
+.pill {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: bisque;
+}
